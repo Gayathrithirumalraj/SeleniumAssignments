@@ -8,7 +8,10 @@ public class MissingElementInAnArray {
 
 		// Sort the array	
 		
-
+			for(int 1=0;i<lenght;i++);
+		{
+			system.out.println(arr[i]);
+			
 		// loop through the array (start i from arr[0] till the length of the array)
 
 			// check if the iterator variable is not equal to the array values respectively
